@@ -1,0 +1,113 @@
+{
+  "title": "SOIL AND VEGETATION INDICES - 2026",
+  "footer": "Anand Agricultural University",
+  "year": 2026,
+  "rotationSeconds": 5,
+  "defaultRegion": "gujarat",
+  "monthNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "months": [
+    {
+      "value": "01",
+      "label": "January 2026"
+    },
+    {
+      "value": "02",
+      "label": "February 2026"
+    },
+    {
+      "value": "03",
+      "label": "March 2026"
+    },
+    {
+      "value": "04",
+      "label": "April 2026"
+    },
+    {
+      "value": "05",
+      "label": "May 2026"
+    },
+    {
+      "value": "06",
+      "label": "June 2026"
+    },
+    {
+      "value": "07",
+      "label": "July 2026"
+    },
+    {
+      "value": "08",
+      "label": "August 2026"
+    },
+    {
+      "value": "09",
+      "label": "September 2026"
+    }
+  ],
+  "regions": [
+    {
+      "slug": "gujarat",
+      "name": "Gujarat"
+    }
+  ],
+  "indices": [
+    {
+      "key": "EVI",
+      "name": "Enhanced Vegetation Index"
+    },
+    {
+      "key": "GNDVI",
+      "name": "Green Normalized Difference Vegetation Index"
+    },
+    {
+      "key": "NDMI",
+      "name": "Normalized Difference Moisture Index"
+    },
+    {
+      "key": "NDVI",
+      "name": "Normalized Difference Vegetation Index"
+    },
+    {
+      "key": "NDRE",
+      "name": "Normalized Difference Red Edge Index"
+    },
+    {
+      "key": "SI",
+      "name": "Salinity Index"
+    },
+    {
+      "key": "SMI",
+      "name": "Soil Moisture Index"
+    },
+    {
+      "key": "SAVI",
+      "name": "Soil-Adjusted Vegetation Index"
+    },
+    {
+      "key": "NDWI",
+      "name": "Normalized Difference Water Index"
+    }
+  ],
+  "palette": [
+    "#a50026",
+    "#d73027",
+    "#f46d43",
+    "#fdae61",
+    "#fee08b",
+    "#ffffbf",
+    "#d9ef8b",
+    "#a6d96a",
+    "#66bd63",
+    "#1a9850",
+    "#006837"
+  ]
+}
