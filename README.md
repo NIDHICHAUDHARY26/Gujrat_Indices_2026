@@ -1,0 +1,1 @@
+# Gujrat_Indices_2026
